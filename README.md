@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Paloma Macedo — Senior Frontend Engineer | React + TypeScript | UX & Frontend Architecture" src="https://github.com/user-attachments/assets/0bd81abc-16f4-4fcf-b1e0-95c267386232" />
+ <img width="1440" height="762" alt="Image" src="https://github.com/user-attachments/assets/cc893faa-3900-4392-bd6f-e10f797de058" />
 
 <div/>
 <div align="left">
