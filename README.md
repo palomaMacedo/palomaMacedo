@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1440" height="500" alt="GitHub banner of Paloma Macedo, Frontend Developer, featuring an illustrated avatar and skills in Frontend Architecture, Solution Architecture Experience, UX-Driven development, and AI" src="https://github.com/user-attachments/assets/c086cd1e-5a02-4c3c-a5d7-239f18b9fb09" />
+<img width="1440" height="500" alt="GitHub banner of Paloma Macedo, Frontend Developer, featuring an illustrated avatar and skills in Frontend Architecture, Solution Architecture Experience, UX-Driven development, and AI" src="https://github.com/user-attachments/assets/2e20d2f1-3e34-42d3-bc58-b925c68eeec1" />
 
 <div/>
 <div align="left">
@@ -28,8 +28,5 @@
  
 <img width="1289" height="754" alt="Image" src="https://github.com/user-attachments/assets/445cf8f4-b437-4529-8722-91baff3a2481" />
 </div>
-<div align="left">
-<h2> 🚀 Recent Work</h2>
-<img width="1293" height="1368" alt="Image" src="https://github.com/user-attachments/assets/121c354b-4b89-46b2-8800-910f3bbae86c" />
-</div>
+
 
