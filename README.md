@@ -8,7 +8,7 @@
     With 15 years of experience in software engineering, my career has been driven by one purpose: creating interfaces that don’t just function—they connect. As a specialist in Front-end Ecosystems (React, Astro, TypeScript), I bridge the         gap between technical architecture and Neuroscience-based UX to maximize user conversion and retention.
   </p>
   <p>
-    I am currently focused on the next frontier of technology: the strategic integration of AI into the Front-end to build predictive and intelligent experiences. I am a 'core developer' who deeply understands SEO, architecture, and, above        all, human behavior.
+    I am currently focused on the next frontier of technology: the strategic integration of AI into the Front-end to build predictive and intelligent experiences. I am a 'core developer' who deeply understands SEO, architecture, and, above  all, human behavior.
 
 <h2 align="center">🔗 Connect with me</h2>
 
@@ -24,7 +24,7 @@
 <div>
   <h2> 💼 Companies I've had the pleasure to work with</h2>
  
-<img width="1289" height="754" alt="Image" src="https://github.com/user-attachments/assets/445cf8f4-b437-4529-8722-91baff3a2481" />
+<img width="1289" height="754" alt="A collection of logos from companies and projects I have collaborated with as a Solution Architect and Front-End Expert." src="https://github.com/user-attachments/assets/445cf8f4-b437-4529-8722-91baff3a2481" />
 </div>
 
 
