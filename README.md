@@ -16,10 +16,10 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-palomamacedo.dev-E91E63?style=for-the-badge&logo=google-chrome&logoColor=white)](http://palomamacedo.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C2185B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Figma](https://img.shields.io/badge/Figma-DC24A8?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@seuusuario)
-[![Email](https://img.shields.io/badge/Email-F06292?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Website](https://img.shields.io/badge/Website-palomamacedo.dev-FFC107?style=for-the-badge&logo=google-chrome&logoColor=white)](http://palomamacedo.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC107?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Figma](https://img.shields.io/badge/Figma-FFC107?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@seuusuario)
+[![Email](https://img.shields.io/badge/Email-FFC107?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
 </div>
 
 
