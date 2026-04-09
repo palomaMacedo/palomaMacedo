@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1440" height="500" alt="GitHub banner of Paloma Macedo, Frontend Developer, featuring an illustrated avatar and skills in Frontend Architecture, Solution Architecture Experience, UX-Driven development, and AI" src="https://github.com/user-attachments/assets/2e20d2f1-3e34-42d3-bc58-b925c68eeec1" />
+<img width="1440" height="500" alt="GitHub banner of Paloma Macedo, Frontend Developer, featuring an illustrated avatar and skills in Frontend Architecture, Solution Architecture Experience, UX-Driven development, and AI" src="https://github.com/user-attachments/assets/ab800052-5eb7-46e9-8ace-f65004fa480f" />
 
 
 
