@@ -15,10 +15,20 @@ Frontend Developer with over 15 years of experience — and yes, I still genuine
 
 [![Website](https://img.shields.io/badge/Website-palomamacedo.dev-FFC107?style=for-the-badge&logo=google-chrome&logoColor=white)](http://palomamacedo.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC107?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palomamacedofrontend/?locale=es)
-[![Figma](https://img.shields.io/badge/Figma-FFC107?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@paloma)
+[![Figma](https://img.shields.io/badge/Figma-FFC107?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@PalomaMacedo)
 [![Email](https://img.shields.io/badge/Email-FFC107?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macedo.paloma@gmail.com)
+</div>
+
+
+<div align="left">
+
+" Every interface starts with intention — a problem to solve, an experience to craft. Where design meets code, ideas are tested and refined. The work only comes alive when someone uses it.
+  Toda interface começa com intenção — um problema a resolver, uma experiência a construir. Onde design encontra código, ideias são testadas e refinadas. O trabalho só ganha vida quando     alguém o   usa."
+
 </div>
 
 
 
 
+
+<sub>💜 Inspired by the three stages of creative activity — The Mythical Man-Month, Frederick Brooks</sub>
