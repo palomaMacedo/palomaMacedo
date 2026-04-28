@@ -22,8 +22,8 @@ Frontend Developer with over 15 years of experience — and yes, I still genuine
 
 <div align="left">
 
-" Every interface starts with intention — a problem to solve, an experience to craft. Where design meets code, ideas are tested and refined. The work only comes alive when someone uses it.
-  Toda interface começa com intenção — um problema a resolver, uma experiência a construir. Onde design encontra código, ideias são testadas e refinadas. O trabalho só ganha vida quando     alguém o   usa."
+" Every interface starts with intention — a problem to solve, an experience to craft. Where design meets code, ideas are tested and refined. The work only comes alive when someone uses it."
+ 
 
 </div>
 
