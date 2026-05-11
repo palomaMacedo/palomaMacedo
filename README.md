@@ -24,9 +24,8 @@ Frontend Developer with over 15 years of experience — and yes, I still genuine
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -34,7 +33,6 @@ Frontend Developer with over 15 years of experience — and yes, I still genuine
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC107?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palomamacedofrontend)
-[![Figma](https://img.shields.io/badge/Figma-FFC107?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@PalomaMacedo)
 [![Email](https://img.shields.io/badge/Email-FFC107?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macedo.paloma@gmail.com)
 
 </div>
@@ -51,4 +49,4 @@ Frontend Developer with over 15 years of experience — and yes, I still genuine
 
 
 
-<sub>💜 Inspired by the three stages of creative activity — The Mythical Man-Month, Frederick Brooks</sub>
+<sub>💜 Paloma Macedo</sub>
