@@ -9,8 +9,6 @@
 <div align="left">
 Frontend Developer with over 15 years of experience — and yes, I still genuinely get excited when everything works exactly as planned (and even more when it doesn’t, because that’s where real learning happens).
 </div>
-<h2 align="center">🔗 Connect with me</h2>
-
 <div align="left">
  
 ## 🛠 Tech Stack
