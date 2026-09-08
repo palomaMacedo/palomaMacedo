@@ -1,8 +1,8 @@
 
-<div align="center">
+
 <img width="1510" height="862" alt="Captura de tela de 2026-09-08 19-27-04" src="https://github.com/user-attachments/assets/ba4cfd84-c0d0-4368-a19c-ab1d9b1b4031" />
 
-
+<div align="center">
 
 
 ## 👋 Hi, I'm Paloma Macedo
