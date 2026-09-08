@@ -1,7 +1,10 @@
 
 
 <div align="center">
-<img width="1774" height="887" alt="github-social-preview" src="https://github.com/user-attachments/assets/298a39a8-95e4-4984-85d5-d34025e206d6" />
+<img width="1774" height="887" alt="github-social-preview" src="https://github.com/user-attachments/assets/edceb0fb-b579-446a-93d9-b419bcdc7dd8" />
+
+
+
 
 ## 👋 Hi, I'm Paloma Macedo
 
