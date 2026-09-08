@@ -1,5 +1,6 @@
+
 <div align="center">
-<img width="1440" height="500" alt="GitHub banner of Paloma Macedo, Frontend Developer, featuring an illustrated avatar and skills in Frontend Architecture, Solution Architecture Experience, UX-Driven development, and AI" src="https://github.com/user-attachments/assets/ab800052-5eb7-46e9-8ace-f65004fa480f" />
+<img width="1510" height="862" alt="Captura de tela de 2026-09-08 19-27-04" src="https://github.com/user-attachments/assets/ba4cfd84-c0d0-4368-a19c-ab1d9b1b4031" />
 
 
 
