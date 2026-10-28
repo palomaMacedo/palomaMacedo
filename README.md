@@ -6,7 +6,10 @@
 ## 👋 Hi, I'm Paloma Macedo
 
 <div align="left">
-Senior Frontend Engineer and Solution Architect with 15+ years of experience — still genuinely excited when everything works as planned, and even more when it doesn’t. That’s where real learning happens.
+Frontend Developer with 18 years of experience in developing, maintaining, and modernizing web applications.
+Worked on solution architecture, accessibility, performance, and SEO, using ReactJS, JavaScript, and
+TypeScript. Participated in more than 50 projects of different sizes, including legacy system migrations and
+feature leadership, working with multidisciplinary teams and business stakeholders.
 </div>
 <div align="left">
  
